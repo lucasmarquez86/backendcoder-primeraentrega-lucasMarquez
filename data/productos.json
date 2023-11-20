@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Producto de Ejemplo",
+    "description": "Descripción del producto de ejemplo",
+    "code": "PROD001",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "/images/product1_thumbnail1.jpg",
+      "/images/product1_thumbnail2.jpg"
+    ],
+    "id": "1700517194725"
+  },
+  {
+    "title": "Producto Modificado",
+    "description": "Nueva descripción del producto",
+    "code": "PROD002",
+    "price": 24.99,
+    "status": true,
+    "stock": 20,
+    "category": "Tecnología",
+    "thumbnails": [
+      "/images/product2_thumbnail1.jpg",
+      "/images/product2_thumbnail2.jpg"
+    ],
+    "id": "1700517235875"
+  }
+]
